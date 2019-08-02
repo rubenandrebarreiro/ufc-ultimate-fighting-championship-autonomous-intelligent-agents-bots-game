@@ -1,1 +1,1 @@
-# ufc-ultimate-fighting-championship-autonomous-intelligent-agents-bots-game
+# U.F.C. (Ultimate Fighting Championship) - Autonomous Intelligent Agents' Bots Game
