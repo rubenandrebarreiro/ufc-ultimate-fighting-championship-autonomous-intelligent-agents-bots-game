@@ -8,5 +8,5 @@
  *
  */
 
-// The package of UFC.Utils.
-package ufc.utils;
+// The package of UFC.Agents.Fighter.Behaviours.
+package ufc.agents.fighter.behaviours;

@@ -8,5 +8,5 @@
  *
  */
 
-// The package of UFC.Utils.
-package ufc.utils;
+// The package of UFC.Octagon.
+package ufc.octagon;

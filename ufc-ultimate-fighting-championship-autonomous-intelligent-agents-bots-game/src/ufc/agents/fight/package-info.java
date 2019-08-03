@@ -8,5 +8,5 @@
  *
  */
 
-// The package of UFC.Utils.
-package ufc.utils;
+// The package of UFC.Agents.Fight.
+package ufc.agents.fight;
