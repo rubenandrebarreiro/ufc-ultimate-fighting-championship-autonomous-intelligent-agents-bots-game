@@ -41,9 +41,16 @@ public class UFCFightAgent extends Agent {
 		this.ufcFighterAgent1 = new UFCFighterAgent((byte) 0, name, nickname, alias, country, gender, weightCategory, striking, grappling, stamina, health);	}
 	}
 	private void createFighterAgent1(String name, String nickname, String alias, byte country, byte gender, byte weightCategory,
-								int striking, int grappling, int stamina, int health) {
-		
+								int striking, int grappling, int stamina, int health) {		
 		
 	}
 	*/
+
+	public Object getUFCFighterAgents() {
+		return null;
+	}
+
+	public static Object[] getUFCFighterAgentsNames(Object ufcFighterAgents) {
+		return null;
+	}
 }

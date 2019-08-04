@@ -124,7 +124,7 @@ public class UFCFighterAgent extends Agent {
 	 * @param currentHealth
 	 */
 	public UFCFighterAgent(byte numFighter, String name, String nickname, String alias, byte country, byte gender, byte weightCategory,
-							int striking, int grappling, int stamina, int healthtHealth) {
+							int striking, int grappling, int stamina, int health) {
 		
 		this.numFighter = numFighter;
 		
@@ -160,6 +160,10 @@ public class UFCFighterAgent extends Agent {
 		}
 		
 		this.lastKnowingOpponentPosition = new Point(0,0);
+	}
+	
+	public OctagonObject getOctagonObject() {
+		return this.octagonObject;
 	}
 	
 	
